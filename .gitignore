@@ -1,0 +1,39 @@
+# Django/Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+.env
+.env.local
+.env.development
+.env.production
+db.sqlite3
+/media/
+/staticfiles/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+virtualenv/
+venv.bak/
+.env/
+pip-selfcheck.json
+
+# IDE/Editor
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*.sublime-*
+
+# OS Junk
+Thumbs.db
+desktop.ini
+
+# Node.js (if applicable)
+node_modules/
